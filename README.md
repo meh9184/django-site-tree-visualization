@@ -1,2 +1,2 @@
 # django-site-tree-visualization
-Sever to visualizing the web pages by tree
+웹 사이트의 링크 구조를 트리 모양으로 시각화 해주는 django 서버입니다.
