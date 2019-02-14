@@ -5,6 +5,6 @@
 ### 스크린샷 1
 <div>
   <div width='100%'>
-    <img src='./screenshots/screenshot1.png'>
+    <img src='./screenshots/screenshot1.jpg'>
   </div>
 </div>
