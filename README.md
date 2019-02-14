@@ -11,27 +11,23 @@
 
 ## Data 구조
 <div>
-  <div>
-    <img src='./screenshots/screenshot2.jpg'>
+  <div width='100%'>
+    <img src='./screenshots/screenshot2.jpg' width='60%'>
   </div>
 </div>
 
 ## Depth 1 / 2
 <div>
-  <div width='30%'>
-    <img src='./screenshots/screenshot3.jpg'>
-  </div>
-  <div width='30%'>
-    <img src='./screenshots/screenshot4.jpg'>
+  <div width='100%'>
+    <img src='./screenshots/screenshot3.jpg' width='40%'>
+    <img src='./screenshots/screenshot4.jpg' width='40%'>
   </div>
 </div>
 
 ## Depth 3 / 4
 <div>
   <div width='30%'>
-    <img src='./screenshots/screenshot5.jpg'>
-  </div>
-  <div width='30%'>
-    <img src='./screenshots/screenshot6.jpg'>
+    <img src='./screenshots/screenshot5.jpg' width='40%'>
+    <img src='./screenshots/screenshot6.jpg' width='40%'>
   </div>
 </div>
