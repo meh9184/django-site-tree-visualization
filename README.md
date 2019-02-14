@@ -16,7 +16,7 @@
   </div>
 </div>
 
-## Depth 1 / 2 / 3 / 4
+## Depth에 따른 Visualization
 <div>
   <div width='100%'>
     <img src='./screenshots/screenshot3.jpg' width='47%' margin-left='1px'>
