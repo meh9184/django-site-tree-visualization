@@ -4,8 +4,8 @@
 
 ## Data 구성 및 스키마
 <div>
-  <div width='50%'>
-    <img src='./screenshots/screenshot1.jpg'>
+  <div width='100%'>
+    <img src='./screenshots/screenshot1.jpg' width='60%'>
   </div>
 </div>
 
