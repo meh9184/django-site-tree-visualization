@@ -19,8 +19,8 @@
 ## Depth에 따른 Visualization
 <div>
   <div>
-    <kbd width='45%'> <img src='./screenshots/screenshot3.jpg' width='47%'> </kbd>
-    <kbd width='45%'> <img src='./screenshots/screenshot4.jpg' width='47%'> </kbd>
+    <kbd width='45%'> <img src='./screenshots/screenshot3.jpg'> </kbd>
+    <kbd width='45%'> <img src='./screenshots/screenshot4.jpg'> </kbd>
   </div>
   <div width='100%'>
     <kbd> <img src='./screenshots/screenshot5.jpg' width='47%'> </kbd>
